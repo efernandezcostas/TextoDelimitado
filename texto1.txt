@@ -1,0 +1,12 @@
+Codigo:	p1
+Descricion:	parafusos
+Prezo:	3,00 €
+
+Codigo:	p2
+Descricion:	cravos
+Prezo:	4,00 €
+
+Codigo:	p3
+Descricion:	tachas
+Prezo:	5,00 €
+
